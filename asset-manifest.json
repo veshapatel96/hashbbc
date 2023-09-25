@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hashbbc/static/css/main.be42e5e8.css",
+    "main.js": "/hashbbc/static/js/main.2745dcd4.js",
+    "static/media/event.JPG": "/hashbbc/static/media/event.d03765dd5eb5404f1ab6.JPG",
+    "static/media/event3.jpg": "/hashbbc/static/media/event3.7062ea81beb01d17759d.jpg",
+    "static/media/event2.jpg": "/hashbbc/static/media/event2.6df1c9d0d354616c1e19.jpg",
+    "static/media/event4.jpg": "/hashbbc/static/media/event4.629b5885aa4e4f7d2deb.jpg",
+    "static/media/bbc6.JPG": "/hashbbc/static/media/bbc6.d28e50c2e6ce884faa63.JPG",
+    "static/media/event5.jpg": "/hashbbc/static/media/event5.61e295270b08e047664f.jpg",
+    "static/media/banner5.JPG": "/hashbbc/static/media/banner5.9ca06529f5601016e472.JPG",
+    "static/media/banner2.JPG": "/hashbbc/static/media/banner2.c3246af65fea6c44e1c7.JPG",
+    "static/media/logo2.png": "/hashbbc/static/media/logo2.e1e78e05079881888a31.png",
+    "static/media/offer.JPG": "/hashbbc/static/media/offer.99cf76031be8b5cff015.JPG",
+    "static/media/event6.jpg": "/hashbbc/static/media/event6.4455e6522ea8975305ea.jpg",
+    "static/media/dj-music.png": "/hashbbc/static/media/dj-music.6401ce64f3e3122eee5a.png",
+    "static/media/dj.png": "/hashbbc/static/media/dj.07838eb7b3d44595a85d.png",
+    "static/media/app.png": "/hashbbc/static/media/app.84318e59c1df719d2490.png",
+    "static/media/music.png": "/hashbbc/static/media/music.dff3e731654adba62dca.png",
+    "index.html": "/hashbbc/index.html",
+    "main.be42e5e8.css.map": "/hashbbc/static/css/main.be42e5e8.css.map",
+    "main.2745dcd4.js.map": "/hashbbc/static/js/main.2745dcd4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be42e5e8.css",
+    "static/js/main.2745dcd4.js"
+  ]
+}
